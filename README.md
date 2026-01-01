@@ -1,16 +1,14 @@
-## Hi there 👋
+# hello, im dhanush|dope :-) 
+ 
+### final year cs undergrad, love working with data and how it's used under the hood, building random and fun side projects, and creating art and visuals from code.    
+---
+### currently interested
+- big data | data engineering 
+- infrastructure and backend development
+- app and cli systems    
+- creative coding 
+### currently learning about 
+- geoinformatic systems 
+- iot  
+- homelabbing 
 
-<!--
-**dope232/dope232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
